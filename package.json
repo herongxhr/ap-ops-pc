@@ -9,9 +9,12 @@
   },
   "private": true,
   "dependencies": {
+    "slash2": "^2.0.0",
     "umi": "^2.5.5"
   },
   "devDependencies": {
+    "antd-pro-merge-less": "^1.0.0",
+    "antd-theme-webpack-plugin": "^1.2.0",
     "umi-plugin-react": "^1.5.2"
   }
 }
