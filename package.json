@@ -1,0 +1,17 @@
+{
+  "name": "anpin-ops-pc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "private": true,
+  "dependencies": {
+    "umi": "^2.5.5"
+  },
+  "devDependencies": {
+    "umi-plugin-react": "^1.5.2"
+  }
+}
